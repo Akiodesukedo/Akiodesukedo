@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Akifumi (call me Aki), a enthusiastic front-end developer with 1 year of practical experience
+
+👨🏻‍💻 Latest project: [GlucoFit (Blood Glucose Level management app)] (https://github.com/IshiHisashi/GlucoFit)
 
 <!--
 **Akiodesukedo/Akiodesukedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
